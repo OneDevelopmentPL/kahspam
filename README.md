@@ -1,7 +1,7 @@
 # 🚀 KahSpam - Elitarne Narzędzie do Dominacji w Kahoot
 
 ![KahSpam UI](./preview.png)
-![Odwiedź stronę](https://kahbot.netlify.app)
+[Odwiedź stronę](https://kahbot.netlify.app)
 
 **KahSpam** to najbardziej zaawansowane, polskie narzędzie typu "User Deployment", zaprojektowane z myślą o pełnej kontroli nad każdą sesją Kahoot. To nie jest zwykły spamer – to kompletny system zarządzania botami, który pozwala na realną interakcję z grą i pełną personalizację ataku.
 
